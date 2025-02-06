@@ -1,0 +1,8 @@
+{
+	"uuid": "mouse-acceleration-toggle@archlemon",
+	"name": "Mouse acceleration toggle",
+	"description": "Toggle mouse acceleration on and off.",
+	"shell-version": ["43", "44", "45", "46", "47"],
+	"url": "https://github.com/archLemon/gnome-mouse-acceleration-toggle",
+	"version": 1
+}
